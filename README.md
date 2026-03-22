@@ -1,2 +1,2 @@
 # datamix_day7
-datamix_day7に作成
+datamix_day7で作成
